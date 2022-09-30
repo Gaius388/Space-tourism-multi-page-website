@@ -563,12 +563,12 @@ header{
         padding: min(15vh, 10rem) 1em;
         display: none;
     }
-    /* @supports(backdrop-filter: blur(40.7742px)) {
+    @supports(backdrop-filter: blur(40.7742px)) {
         .home__links{
             background: rgba(217, 217, 217, 0.04);
             backdrop-filter: blur(40.7742px);   
         }
-    } */
+    }
     .home__links li {
         list-style: none;
 

@@ -748,8 +748,7 @@ header{
     }
     .crew__img img{
         margin: 0;
-        width: 100%;
-        border: 2px solid red;
+        width: 100%;b
     } 
     .crew__text{
         grid-row: 3/4;
